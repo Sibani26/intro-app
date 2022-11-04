@@ -1,1 +1,1 @@
-# my-app
+# intro-app
